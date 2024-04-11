@@ -131,6 +131,7 @@ Run the application through the following API calls:
   ``` 
   Expected output: success!
 
+  navigate to the where your mp4 file is
 - **Upload Endpoint**
 
 
