@@ -124,6 +124,8 @@ Run the application through the following API calls:
 
 # API Definition
 
+
+- **login Endpoint**
   ```console
   curl -X POST http://nodeIP:30002/login -u <email>:<password>
   ``` 
