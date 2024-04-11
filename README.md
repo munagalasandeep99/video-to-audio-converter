@@ -5,7 +5,7 @@ Converting mp4 videos to mp3 in a microservices architecture.
 
 # inbound rules
 <p align="center">
-  <img src="./Project documentation/inbound_rules_sg.png.png" width="600" title="inbound rules" alt="inbound rules">
+  <img src="./Project documentation/inbound_rules_sg.png" width="600" title="inbound rules" alt="inbound rules">
   </p>
 ## Architecture
 
