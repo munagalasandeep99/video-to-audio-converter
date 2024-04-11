@@ -1,6 +1,7 @@
 # video-to-audio-converter
 Converting mp4 videos to mp3 in a microservices architecture.
 
+ utilized AWS EKS service to set up a node group. In the configuration, I adjusted the inbound rules by including access to ports 30002, 30003, 30004, and 30005. These ports are designated for accessing MongoDB, PostgreSQL, and RabbitMQ gateway services
 ## Architecture
 
 <p align="center">
