@@ -121,12 +121,8 @@ For configuring email notifications and two-factor authentication (2FA), follow 
 
 Run the application through the following API calls:
 
-# API Definition
 
-- **Login Endpoint**
-  ```http request
-  POST http://nodeIP:30002/login
-  ```
+# API Definition
 
   ```console
   curl -X POST http://nodeIP:30002/login -u <email>:<password>
